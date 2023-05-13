@@ -1,5 +1,5 @@
 # text_similarity_tfidf
-The project utilizes the TF-IDF (Term Frequency-Inverse Document Frequency) algorithm. The main objective of this project is to measure the similarity between text documents using the TF-IDF algorithm.
+The project utilizes the __TF-IDF (Term Frequency-Inverse Document Frequency)__ algorithm. The main objective of this project is to measure the __similarity between text documents__ using the TF-IDF algorithm.
 
 ## Project Objectives
 The main objective of this project is to measure the similarity between text documents using the TF-IDF algorithm. This allows for the calculation of a similarity score between text documents and enables comparisons.
